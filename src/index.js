@@ -1,0 +1,1 @@
+console.log("Rodando com o node.");
